@@ -36,3 +36,7 @@ p{
 .text{
     color:goldenrod;
 }
+
+.links a:hover {
+    color:rgba(246, 250, 0, 0.281);
+}
